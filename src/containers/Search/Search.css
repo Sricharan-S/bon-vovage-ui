@@ -1,0 +1,13 @@
+.Search{
+    width:50%;
+    margin:0 auto;
+    margin-top:5%;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+    .Search{
+        width:70%;
+    }
+    
+  }
